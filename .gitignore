@@ -12,3 +12,4 @@ trace.d
 debugger_cmds
 .idea
 .dat*
+ib.xcodeproj
